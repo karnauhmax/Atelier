@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "achievments",
+  "info": {
+    "singularName": "achievment",
+    "pluralName": "achievments",
+    "displayName": "Achievments"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "value": {
+      "type": "integer"
+    },
+    "title": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_footer_group_footer_groups",
+  "info": {
+    "displayName": "footer-group",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "urls": {
+      "type": "component",
+      "repeatable": true,
+      "component": "footer-subgroup.footer-subgroup"
+    }
+  }
+}

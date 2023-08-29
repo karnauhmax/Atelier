@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "process",
+  "info": {
+    "singularName": "processes",
+    "pluralName": "process",
+    "displayName": "Process",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "duration": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

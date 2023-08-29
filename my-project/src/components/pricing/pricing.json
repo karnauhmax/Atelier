@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_pricing_pricings",
+  "info": {
+    "displayName": "pricing"
+  },
+  "options": {},
+  "attributes": {
+    "pricing": {
+      "type": "integer"
+    },
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "title": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_group_partners_groups",
+  "info": {
+    "displayName": "partners_group"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}

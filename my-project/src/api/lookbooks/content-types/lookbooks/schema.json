@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "lookbook",
+  "info": {
+    "singularName": "lookbooks",
+    "pluralName": "lookbook",
+    "displayName": "lookbook"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "year": {
+      "type": "integer"
+    }
+  }
+}

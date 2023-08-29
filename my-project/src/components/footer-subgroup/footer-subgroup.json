@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_footer_subgroup_footer_subgroups",
+  "info": {
+    "displayName": "footer-subgroup"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    }
+  }
+}
